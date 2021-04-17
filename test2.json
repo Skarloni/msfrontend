@@ -1,0 +1,33 @@
+{
+    "number": 3,
+    "from": "Test1",
+    "to": "Test2",
+    "products": [
+        {
+            "code": 1,
+            "name": "Test1",
+            "count": 5
+        },
+        {
+            "code": 2,
+            "name": "Test2",
+            "price": 1.2,
+            "sellingPrice": 2.2,
+            "count": 5
+        },
+        {
+            "code": 3,
+            "name": "Test3",
+            "price": 1.3,
+            "sellingPrice": 2.3,
+            "count": 5
+        },
+        {
+            "code": 4,
+            "name": "Test4",
+            "price": 1.4,
+            "sellingPrice": 2.4,
+            "count": 5
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+.App-logo {
+    align-items: center;
+    align-self: center;
+    justify-content: center;
+    margin: 10px;
+    width: 15vmin;
+    height: 15vmin;
+    pointer-events: none;
+}
